@@ -1,0 +1,22 @@
+# Compiled bytecode
+out/
+bin/
+*.class
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+
+# Unrelated sub-projects
+irctc-tatkal-simulator/
+irctc-tatkal-simulator_1/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Report file made by the program
+parcels_report.txt
